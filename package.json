@@ -14,7 +14,7 @@
     "email": "feng_zilong@163.com"
   },
   "devDependencies": {
-    "@nut-project/cli": "^0.2.5-31",
+    "@nut-project/cli": "^0.2.5-32",
     "gh-pages": "^2.0.1"
   },
   "license": "MIT"
