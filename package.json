@@ -1,0 +1,22 @@
+{
+  "name": "nut-todomvc-example",
+  "private": true,
+  "version": "0.0.0",
+  "description": "my awesome nut project",
+  "keywords": [],
+  "scripts": {
+    "dev": "nut",
+    "prod": "nut --prod",
+    "deploy": "yarn prod && gh-pages -d dist"
+  },
+  "author": {
+    "name": "fengzilong",
+    "email": "feng_zilong@163.com"
+  },
+  "devDependencies": {
+    "@nut-project/cli": "^0.2.5-31",
+    "gh-pages": "^2.0.1",
+    "todomvc-app-css": "^2.2.0"
+  },
+  "license": "MIT"
+}
