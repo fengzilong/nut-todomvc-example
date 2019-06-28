@@ -15,8 +15,7 @@
   },
   "devDependencies": {
     "@nut-project/cli": "^0.2.5-31",
-    "gh-pages": "^2.0.1",
-    "todomvc-app-css": "^2.2.0"
+    "gh-pages": "^2.0.1"
   },
   "license": "MIT"
 }
