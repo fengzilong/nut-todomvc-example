@@ -6,6 +6,6 @@ module.exports = {
     title: '任务清单',
   },
   output: {
-    publicPath: 'http://fengzilong.github.io/nut-todomvc-example/'
+    publicPath: 'https://fengzilong.github.io/nut-todomvc-example/'
   },
 }
